@@ -1,0 +1,50 @@
+@import '../../style/variables.css';
+:root{
+    --side-bar-size:
+}
+.table-container{
+    max-width:calc(100vw - 380px);
+    overflow-x: auto;    
+    margin-top:20px;
+    font-family: var(--font-family-secondary);
+    font-size: var(--text-xs);
+    padding: 0px var(--spacing-6);
+}
+
+.table-container__table-border{
+    width: 100%;
+    border-collapse: collapse; 
+}
+th{
+    text-align: start;
+    color:rgba(44, 48, 50, 0.6);
+    position: sticky;
+    top: 0;
+    background: white;
+}
+
+th, td {
+    min-width: fit-content;
+    padding: 0px 32px 0px 16px;
+}
+tr{
+    height: 32px;
+}
+.table-container__thead-row{
+    border-bottom: 1px var(--common-black-12) solid;
+    height: 53px;
+}
+tbody tr:nth-child(even) {
+    background-color: #F2F7FC;
+}
+
+@media (min-width: 320px) and (max-width: 1012px) {
+    .table-container{
+        max-width: inherit;
+    }  
+    .table-container{
+      padding: 0px;
+    }
+}
+
+    

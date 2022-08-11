@@ -1,0 +1,29 @@
+{
+    "id": "carto-demo-data.demo_tables.airports",
+    "name": "airports",
+    "provider": "bigquery",
+    "type": "table",
+    "geomField": "geom",
+    "nrows": 1000,
+    "size": 70307,
+    "lastModified": 1630518782697,
+    "schema": [
+      {
+        "name": "cartodb_id",
+        "type": "number"
+      },
+      {
+        "name": "gps_code",
+        "type": "string"
+      },
+      {
+        "name": "name",
+        "type": "string"
+      },
+      {
+        "name": "geom",
+        "type": "geometry"
+      }
+    ],
+    "tableRegion": "US"
+  }

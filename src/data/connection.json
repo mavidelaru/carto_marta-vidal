@@ -1,0 +1,12 @@
+{
+    "name": "bqconn-front",
+    "provider_id": "bigquery",
+    "user_id": "auth0|243424234234",
+    "account_id": "ui_test_1234",
+    "created_at": "2021-11-24T12:27:19.646Z",
+    "updated_at": "2021-11-24T12:27:19.646Z",
+    "id": "1234",
+    "spatial_extension": true,
+    "privacy": "shared",
+    "carto_dw": false
+  }

@@ -1,0 +1,626 @@
+{
+    "rows": [
+      {
+        "cartodb_id": 16048,
+        "gps_code": null,
+        "name": "Beni",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            29.474258423,
+            0.50274682
+          ]
+        }
+      },
+      {
+        "cartodb_id": 23121,
+        "gps_code": null,
+        "name": "Larisa",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            22.3399769,
+            39.6563003
+          ]
+        }
+      },
+      {
+        "cartodb_id": 34098,
+        "gps_code": null,
+        "name": "Airport",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            23.167256,
+            54.365886
+          ]
+        }
+      },
+      {
+        "cartodb_id": 23951,
+        "gps_code": null,
+        "name": "Serukam",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            109.3317,
+            0.797
+          ]
+        }
+      },
+      {
+        "cartodb_id": 9369,
+        "gps_code": null,
+        "name": "Blagoevo",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            26.4316546,
+            43.4554878
+          ]
+        }
+      },
+      {
+        "cartodb_id": 15565,
+        "gps_code": null,
+        "name": "Brisbane",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -80.084280968,
+            43.737879275
+          ]
+        }
+      },
+      {
+        "cartodb_id": 189,
+        "gps_code": null,
+        "name": "Iguatemi",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -54.629699707,
+            -23.632900238
+          ]
+        }
+      },
+      {
+        "cartodb_id": 23125,
+        "gps_code": null,
+        "name": "SANTIAGO",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -91.244190931,
+            14.609280294
+          ]
+        }
+      },
+      {
+        "cartodb_id": 3151,
+        "gps_code": null,
+        "name": "Zschorna",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            12.8202778,
+            51.3863889
+          ]
+        }
+      },
+      {
+        "cartodb_id": 214,
+        "gps_code": null,
+        "name": "Hydropark",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            30.568333333,
+            50.458055556
+          ]
+        }
+      },
+      {
+        "cartodb_id": 237,
+        "gps_code": null,
+        "name": "RAF Banff",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -2.64053,
+            57.666903
+          ]
+        }
+      },
+      {
+        "cartodb_id": 29871,
+        "gps_code": null,
+        "name": "Stegeborg",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            16.607379913,
+            58.435512543
+          ]
+        }
+      },
+      {
+        "cartodb_id": 24676,
+        "gps_code": null,
+        "name": "VALENTINO",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            7.660555556,
+            44.437222222
+          ]
+        }
+      },
+      {
+        "cartodb_id": 8222,
+        "gps_code": null,
+        "name": "Caluquembe",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            14.694916,
+            -13.775546
+          ]
+        }
+      },
+      {
+        "cartodb_id": 15579,
+        "gps_code": null,
+        "name": "Hohenthann",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            12.0536111,
+            48.6644444
+          ]
+        }
+      },
+      {
+        "cartodb_id": 18452,
+        "gps_code": null,
+        "name": "Ji?i?ky UL",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            15.155556,
+            49.552222
+          ]
+        }
+      },
+      {
+        "cartodb_id": 19434,
+        "gps_code": null,
+        "name": "La Quercia",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            16.630278,
+            40.963889
+          ]
+        }
+      },
+      {
+        "cartodb_id": 14234,
+        "gps_code": null,
+        "name": "Port Fairy",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            142.264221191,
+            -38.361965179
+          ]
+        }
+      },
+      {
+        "cartodb_id": 22880,
+        "gps_code": null,
+        "name": "RAF Atcham",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -2.636667,
+            52.690278
+          ]
+        }
+      },
+      {
+        "cartodb_id": 282,
+        "gps_code": null,
+        "name": "Rancho Pal",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -91.143093109,
+            15.875157929
+          ]
+        }
+      },
+      {
+        "cartodb_id": 23070,
+        "gps_code": null,
+        "name": "Zackenberg",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -20.600000381,
+            74.466667175
+          ]
+        }
+      },
+      {
+        "cartodb_id": 8647,
+        "gps_code": null,
+        "name": "EAA Airport",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -59.0358,
+            -34.6803
+          ]
+        }
+      },
+      {
+        "cartodb_id": 44714,
+        "gps_code": null,
+        "name": "Emery Field",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -75.61519623,
+            40.18980026
+          ]
+        }
+      },
+      {
+        "cartodb_id": 24476,
+        "gps_code": null,
+        "name": "K2 Air Base",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            43.384731293,
+            34.920650482
+          ]
+        }
+      },
+      {
+        "cartodb_id": 18411,
+        "gps_code": null,
+        "name": "Long Rungan",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            115.8418,
+            3.5994
+          ]
+        }
+      },
+      {
+        "cartodb_id": 22884,
+        "gps_code": null,
+        "name": "RAF Bardney",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -0.291944,
+            53.225278
+          ]
+        }
+      },
+      {
+        "cartodb_id": 22887,
+        "gps_code": null,
+        "name": "RAF Bempton",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -0.1778,
+            54.1499
+          ]
+        }
+      },
+      {
+        "cartodb_id": 17478,
+        "gps_code": null,
+        "name": "RAF Boulmer",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -1.597223282,
+            55.408309405
+          ]
+        }
+      },
+      {
+        "cartodb_id": 17487,
+        "gps_code": null,
+        "name": "RAF Caistor",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -0.363889,
+            53.502778
+          ]
+        }
+      },
+      {
+        "cartodb_id": 36146,
+        "gps_code": null,
+        "name": "Adam Airport",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            57.383888889,
+            22.491944444
+          ]
+        }
+      },
+      {
+        "cartodb_id": 24400,
+        "gps_code": null,
+        "name": "Ajog Helipad",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            76.458,
+            32.921944444
+          ]
+        }
+      },
+      {
+        "cartodb_id": 36533,
+        "gps_code": null,
+        "name": "Aro Airstrip",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            147.24,
+            -7.991
+          ]
+        }
+      },
+      {
+        "cartodb_id": 13583,
+        "gps_code": null,
+        "name": "Aroa Airport",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            146.8,
+            -9.0254
+          ]
+        }
+      },
+      {
+        "cartodb_id": 23696,
+        "gps_code": null,
+        "name": "Baja Airport",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            19.0428,
+            46.1455
+          ]
+        }
+      },
+      {
+        "cartodb_id": 38033,
+        "gps_code": null,
+        "name": "Garm Airport",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            70.290277778,
+            39.003888889
+          ]
+        }
+      },
+      {
+        "cartodb_id": 38580,
+        "gps_code": null,
+        "name": "Idle Airpark",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -98.135803223,
+            29.475200653
+          ]
+        }
+      },
+      {
+        "cartodb_id": 18867,
+        "gps_code": null,
+        "name": "Ippesheim UL",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            10.2258333,
+            49.6097222
+          ]
+        }
+      },
+      {
+        "cartodb_id": 26885,
+        "gps_code": null,
+        "name": "Judaea Strip",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            18.091100693,
+            -23.745800018
+          ]
+        }
+      },
+      {
+        "cartodb_id": 28740,
+        "gps_code": null,
+        "name": "MRMP Airport",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            121.5,
+            16.829799652
+          ]
+        }
+      },
+      {
+        "cartodb_id": 30849,
+        "gps_code": null,
+        "name": "Pacu Airport",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -70.363889,
+            1.630833
+          ]
+        }
+      },
+      {
+        "cartodb_id": 8634,
+        "gps_code": null,
+        "name": "Vera Airport",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -60.2261,
+            -29.4681
+          ]
+        }
+      },
+      {
+        "cartodb_id": 45112,
+        "gps_code": null,
+        "name": "Asita Airport",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -65.583335876,
+            5.199999809
+          ]
+        }
+      },
+      {
+        "cartodb_id": 3155,
+        "gps_code": null,
+        "name": "Aste Air Base",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            22.444999695,
+            58.365001678
+          ]
+        }
+      },
+      {
+        "cartodb_id": 13161,
+        "gps_code": null,
+        "name": "Azur Heliport",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -1.255555987,
+            43.806945801
+          ]
+        }
+      },
+      {
+        "cartodb_id": 18368,
+        "gps_code": null,
+        "name": "Berau Airport",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            117.68699646,
+            2.163500071
+          ]
+        }
+      },
+      {
+        "cartodb_id": 38423,
+        "gps_code": null,
+        "name": "Berry Airport",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -91.3483963,
+            32.85789871
+          ]
+        }
+      },
+      {
+        "cartodb_id": 17423,
+        "gps_code": null,
+        "name": "Burn Airfield",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            -1.084444444,
+            53.745833333
+          ]
+        }
+      },
+      {
+        "cartodb_id": 22192,
+        "gps_code": null,
+        "name": "Cabrerets ULM",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            1.592502594,
+            44.514150031
+          ]
+        }
+      },
+      {
+        "cartodb_id": 19136,
+        "gps_code": null,
+        "name": "Dumpu Airport",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            145.705,
+            -5.858
+          ]
+        }
+      },
+      {
+        "cartodb_id": 44951,
+        "gps_code": null,
+        "name": "Dutyr Airport",
+        "geom": {
+          "type": "Point",
+          "coordinates": [
+            71.370498657,
+            40.372501373
+          ]
+        }
+      }
+    ],
+    "schema": [
+      {
+        "name": "cartodb_id",
+        "type": "number"
+      },
+      {
+        "name": "gps_code",
+        "type": "string"
+      },
+      {
+        "name": "name",
+        "type": "string"
+      },
+      {
+        "name": "geom",
+        "type": "geometry"
+      }
+    ],
+    "meta": {
+      "cacheHit": false,
+      "totalBytesProcessed": "70307"
+    }
+  }

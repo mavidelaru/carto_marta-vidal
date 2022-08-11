@@ -1,0 +1,114 @@
+/* ⚠️ There are some styles not created. 
+Just the ones necessary for the assignment ⚠️*/
+@import "../../style/variables.css";
+
+:root {
+  --button--font-family: var(--font-family-primary);
+  --button--type-text__bg: var(--white);
+  --button--type-text__primary-color: var(--blue);
+  --button--type-text__tertiary-color: var(--black);
+}
+
+/* Common style*/
+.button {
+  font-family: var(--button--font-family);
+  display: flex;
+  align-items: center;
+  padding: 0px;
+  cursor: pointer;
+}
+
+/* Style type: Type text*/
+.button--type-text {
+  border: none;
+  background-color: var(--button--type-text__bg);
+  color: var(--button--type-text__color);
+}
+/* Style style:*/
+.button--style-primary {
+  color: var(--button--type-text__primary-color);
+}
+.button--style-primary:hover {
+  background-color: rgba(3, 111, 226, 0.08);
+    border-radius: 4px;
+  transition: 0.4s ease-out;
+}
+.button--style-tertiary::after {
+  color: var(--button--type-text__tertiary-color);
+}
+.button--style-tertiary::before {
+  color: var(--button--type-text__tertiary-color);
+}
+
+
+/* Style size*/
+.button--size-normal {
+  font-size: var(--text-base);
+  padding: 0px var(--spacing-6);
+}
+.button--size-small {
+  font-size: var(--text-xs);
+}
+
+/* Style icons: Type text*/
+.button::after,
+.button::before {
+  display: block;
+  width: 18px;
+  height: 18px;
+}
+.button::after {
+  margin: 0px 0px 0 6px;
+}
+.button::before {
+  margin: 0px 6px 0 0px;
+}
+.button--right-icon-addMap::after {
+  background: url("../../assets/buttons-icons/create-map.svg") no-repeat;
+  float: right;
+  content: "";
+}
+.button--right-icon-tileset::after {
+  background: url("../../assets/buttons-icons/create-tileset-icon.svg")
+    no-repeat;
+  float: right;
+  content: "";
+}
+.button--right-icon-table::after {
+  background: url("../../assets/buttons-icons/table.svg") no-repeat;
+  float: right;
+  content: "";
+}
+.button--left-icon-addMap::before {
+  background: url("../../assets/buttons-icons/create-map.svg") no-repeat;
+  float: left;
+  content: "";
+}
+.button--left-icon-tileset::before {
+  background: url("../../assets/buttons-icons/create-tileset-icon.svg")
+    no-repeat;
+  float: left;
+  content: "";
+}
+.button--left-icon-map::before {
+    background: url("../../assets/buttons-icons/map.svg") no-repeat;
+    float: left;
+    content: "";
+  }
+  .button--left-icon-products::before {
+    background: url("../../assets/buttons-icons/products.svg")
+      no-repeat;
+    float: left;
+    content: "";
+  }
+.button--left-icon-table::before {
+  background: url("../../assets/buttons-icons/table.svg") no-repeat;
+  float: left;
+  content: "";
+}
+
+@media (min-width: 320px) and (max-width: 1012px) {
+    .button--size-normal{
+        padding: 0px var(--spacing-3);
+    }
+}

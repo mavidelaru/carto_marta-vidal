@@ -1,0 +1,35 @@
+@keyframes bounce {
+    0% {
+        top: 0px;
+      }
+      25% {
+        top: -4px;
+      }
+      50% {
+        top: 1px;
+      }
+      75% {
+        top: -1px;
+      }
+      100% {
+        top: 0px;
+      }
+  }
+  
+  @-webkit-keyframes bounce {
+    0% {
+        top: 0px;
+      }
+      25% {
+        top: -4px;
+      }
+      50% {
+        top: 1px;
+      }
+      75% {
+        top: -1px;
+      }
+      100% {
+        top: 0px;
+      }
+  }
