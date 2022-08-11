@@ -2,17 +2,15 @@ import "./map.css";
 import React, { Fragment } from "react";
 const map = require("../../assets/map.png");
 
-
 export default function Map() {
   let zoomNumber = 0;
   React.useEffect(() => {
-
-  window.addEventListener("load", function () {
-    (
-      (document.getElementById("zoom-number") as HTMLCanvasElement) || null
-    ).textContent = zoomNumber + "%";
+    window.addEventListener("load", function () {
+      (
+        (document.getElementById("zoom-number") as HTMLCanvasElement) || null
+      ).textContent = zoomNumber + "%";
+    });
   });
-});
   function zoomin() {
     if (zoomNumber >= 100) {
     } else {
@@ -21,7 +19,6 @@ export default function Map() {
       GFG.style.width = currWidth + 100 + "px";
       zoomNumber = zoomNumber + 10;
       console.log(zoomNumber);
-
       (
         (document.getElementById("zoom-number") as HTMLCanvasElement) || null
       ).textContent = zoomNumber + "%";
@@ -54,33 +51,29 @@ export default function Map() {
 
   return (
     <Fragment>
-          <div className="dashboard-container__main__map">
-      <div id="map__wrapper">
-        <img id="map" src={String(map)} alt="map-mexico-city" />
+      <div className="dashboard-container__main__map">
+        <div id="map__wrapper">
+          <img id="map" src={String(map)} alt="map-mexico-city" />
+        </div>
+
+        <div className="zoom-button__wrapper">
+          <button
+            type="button"
+            className="zoom-button"
+            id="zoomout"
+            onClick={zoomout} >
+            <span>-</span>
+          </button>
+          <span id="zoom-number"></span>
+          <button
+            type="button"
+            className="zoom-button"
+            id="zoomin"
+            onClick={zoomin}>
+            <span>+</span>
+          </button>
+        </div>
       </div>
-
-      <div className="zoom-button__wrapper">
-        <button
-          type="button"
-          className="zoom-button"
-          id="zoomout"
-          onClick={zoomout}
-        >
-          <span>-</span>
-        </button>
-
-        <span id="zoom-number"></span>
-
-        <button
-          type="button"
-          className="zoom-button"
-          id="zoomin"
-          onClick={zoomin}
-        >
-          <span>+</span>
-        </button>
-      </div>
-    </div>
     </Fragment>
   );
 }

@@ -1,10 +1,8 @@
 import "./tag.css"
-
 export type TagType = "error" | "info" | "alert";
-
 interface TagParams {
     text:string,
-    type:string
+    type:TagType
 }
 
 export default function Tag (props: TagParams ) {

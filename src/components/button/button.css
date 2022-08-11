@@ -30,7 +30,7 @@ Just the ones necessary for the assignment ⚠️*/
 }
 .button--style-primary:hover {
   background-color: rgba(3, 111, 226, 0.08);
-    border-radius: 4px;
+  border-radius: 4px;
   transition: 0.4s ease-out;
 }
 .button--style-tertiary::after {
@@ -39,7 +39,6 @@ Just the ones necessary for the assignment ⚠️*/
 .button--style-tertiary::before {
   color: var(--button--type-text__tertiary-color);
 }
-
 
 /* Style size*/
 .button--size-normal {
@@ -91,16 +90,15 @@ Just the ones necessary for the assignment ⚠️*/
   content: "";
 }
 .button--left-icon-map::before {
-    background: url("../../assets/buttons-icons/map.svg") no-repeat;
-    float: left;
-    content: "";
-  }
-  .button--left-icon-products::before {
-    background: url("../../assets/buttons-icons/products.svg")
-      no-repeat;
-    float: left;
-    content: "";
-  }
+  background: url("../../assets/buttons-icons/map.svg") no-repeat;
+  float: left;
+  content: "";
+}
+.button--left-icon-products::before {
+  background: url("../../assets/buttons-icons/products.svg") no-repeat;
+  float: left;
+  content: "";
+}
 .button--left-icon-table::before {
   background: url("../../assets/buttons-icons/table.svg") no-repeat;
   float: left;
@@ -108,7 +106,7 @@ Just the ones necessary for the assignment ⚠️*/
 }
 
 @media (min-width: 320px) and (max-width: 1012px) {
-    .button--size-normal{
-        padding: 0px var(--spacing-3);
-    }
+  .button--size-normal {
+    padding: 0px var(--spacing-3);
+  }
 }

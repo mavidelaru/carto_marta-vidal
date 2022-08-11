@@ -1,15 +1,10 @@
-import React, { ReactDOM,Fragment, useState } from "react";
 import "./sidebar.css";
-import Components from "../../components";
-
-
 import cartoIconDE from '../../assets/sidebar-icons/data-explorer/carto.svg';
 import fileTreeIconDE from '../../assets/sidebar-icons/data-explorer/file-tree-component.svg';
 import testIconDE from '../../assets/sidebar-icons/data-explorer/rectangle.svg';
 import addIconDE from '../../assets/sidebar-icons/data-explorer/add-icon.svg';
 
 export default function Sidebar() {
-
     return(
         <div className='sidebar_container'>
             <div className='sidebar-compact-menu'>
@@ -30,7 +25,6 @@ export default function Sidebar() {
                     <span className='sidebar-compact-menu__footer-icons -question'></span>
                     <span className='sidebar-compact-menu__footer-icons -dialog'></span>
                 </div>
-                
             </div>
 
             <div className='sidebar_list-menu'>

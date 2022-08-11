@@ -1,20 +1,20 @@
-@import '../../style/variables.css';
+@import "../../style/variables.css";
 
-.tag_container{
-    font-family:var(--font-family-tertiary);
-    width: fit-content;
-    border-radius: 2px;
-    padding: 0px 2px;
-    margin-top: 2px;
+.tag_container {
+  font-family: var(--font-family-tertiary);
+  width: fit-content;
+  border-radius: 2px;
+  padding: 0px 2px;
+  margin-top: 2px;
 }
 
-.tag--type-info{
-    color: #435f11;
-    border: solid 1px #8cb24a;
-    background-color: rgba(140, 178, 74, 0.12);
+.tag--type-info {
+  color: #435f11;
+  border: solid 1px #8cb24a;
+  background-color: rgba(140, 178, 74, 0.12);
 }
-.tag--type-alert{
-    color: #a96e01;
-    background-color: rgba(244, 177, 52, 0.12);
-    border: solid 1px #f4b134;
+.tag--type-alert {
+  color: #a96e01;
+  background-color: rgba(244, 177, 52, 0.12);
+  border: solid 1px #f4b134;
 }
