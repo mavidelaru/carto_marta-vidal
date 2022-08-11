@@ -43,12 +43,10 @@
 
 .tabs-container__list-element__container {
   border-top: 1px solid rgba(44, 48, 50, 0.12);
-  padding: 24px;
   max-width: calc(100vw - 440px);
   margin-top: 1px;
   font-family: var(--font-family-secondary);
   font-size: 12px;
-  padding: 0px var(--spacing-6);
   max-height: calc(100vh - 340px);
   overflow-y: scroll;
 }
