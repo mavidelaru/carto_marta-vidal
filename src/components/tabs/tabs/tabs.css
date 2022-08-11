@@ -28,11 +28,17 @@
   background-color: var(--white);
   border-bottom: 2px solid var(--white);
   transition: all ease-in-out 0.2s;
+  color: var(--primary-a-main);
 }
 .tabs-container__list-element__button-wrapper button:active,
 .tabs-container__list-element__button-wrapper button:focus-within,
 :target {
   border-bottom: 4px solid black;
+  color: black;
+}
+
+.tabs-container__list-element__button-wrapper button:focus-visible {
+  outline: none;
 }
 
 .tabs-container__list-element__container {

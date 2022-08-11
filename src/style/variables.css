@@ -150,5 +150,12 @@
   --font-family-secondary: "Open Sans", sans-serif;
   --font-family-tertiary: "Overpass Mono", monospace;
 
+  --shadow: 0 3px 5px -2px hsl(var(--shadow-color)/calc(var(--shadow-strength) + 3%)),0 7px 14px -5px hsl(var(--shadow-color)/calc(var(--shadow-strength) + 5%));
+  --shadow-color:220 3% 15%;
+  --shadow-strength:1%;
+  --shadow-highlight: rgba(3, 111, 226, 0.08);
+  --shadow-highlight-size: var(--spacing-2);
+  --shadow-surface: var(--grey-200);
+
 
 }

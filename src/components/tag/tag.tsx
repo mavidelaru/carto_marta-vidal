@@ -1,4 +1,5 @@
 import "./tag.css"
+import React from "react";
 export type TagType = "error" | "info" | "alert";
 interface TagParams {
     text:string,

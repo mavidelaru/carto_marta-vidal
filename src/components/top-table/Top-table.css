@@ -30,7 +30,7 @@
     padding-left: var(--spacing-6);
 }
 .top-table_top__breadcrumbs {
-    margin: var(--spacing-6) 0px;
+    margin: var(--spacing-5) 0px;
     display: flex;
     flex-direction: row;
     font-family: var(--font-family-secondary);
