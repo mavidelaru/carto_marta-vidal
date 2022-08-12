@@ -117,7 +117,7 @@
         width: 31px;
     }
     .top-table_top__dots-menu{
-        padding-left: 3px;
+        display:none;
     }
     .top-table_top__copy{
         display: none;
@@ -130,6 +130,4 @@
         width: 6px;
     }
 }
-
-
 
