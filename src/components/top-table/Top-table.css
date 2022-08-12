@@ -77,8 +77,8 @@
     position: absolute;
     width: 123px;
     transform: scaleX(0);
-    height: 2px;
-    top: 144px;
+    height: 1px;
+    top: 155px;
     left: 722px;
     background-color: var(--primary-a-main);
     transform-origin: bottom right;

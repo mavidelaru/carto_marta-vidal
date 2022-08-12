@@ -62,6 +62,8 @@
   color: var(--grey-900);
   display: flex;
   align-content: center;
+  top: -2px;
+  position: relative;
 }
 .doc-header__aligne-right__p {
   border-left: 1px solid var(--common-black-12);
