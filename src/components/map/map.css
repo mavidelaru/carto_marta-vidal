@@ -73,8 +73,7 @@
   .zoom-button__wrapper {
     display: none;
   }
-  .dashboard-container__main__map,
-  .table-container {
+  .dashboard-container__main__map {
     padding: 0px;
   }
 }
