@@ -8,10 +8,8 @@ type Props = {
 
 export default function TabTitle({ title, setSelectedTab, index }: Props) {
   document.addEventListener("DOMContentLoaded", function() { 
-    console.log('event listener');
     const button = ((document.getElementById("tabs-container__button-1") as HTMLCanvasElement)||null)
     if(button){
-      console.log('tabs-container__button-1');
       button.focus();
     };
  });
