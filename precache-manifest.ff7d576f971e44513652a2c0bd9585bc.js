@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a1b24582b9bd1bdd32c3",
-    "url": "/carto_marta-vidal/static/css/main.e31eb447.chunk.css"
+    "revision": "ee9124e1acccd0038a78",
+    "url": "/carto_marta-vidal/static/css/main.33809697.chunk.css"
   },
   {
-    "revision": "a1b24582b9bd1bdd32c3",
-    "url": "/carto_marta-vidal/static/js/main.a1b24582.chunk.js"
+    "revision": "ee9124e1acccd0038a78",
+    "url": "/carto_marta-vidal/static/js/main.ee9124e1.chunk.js"
   },
   {
     "revision": "8f9ce2141b58b3a83947",
@@ -60,16 +60,16 @@ self.__precacheManifest = [
     "url": "/carto_marta-vidal/static/media/create-tileset-icon.b224ca40.svg"
   },
   {
-    "revision": "4a2d3d5a65a74b76d91b53132516d400",
-    "url": "/carto_marta-vidal/static/media/products.4a2d3d5a.svg"
+    "revision": "60facc8d7f997a19139fa10e840a5767",
+    "url": "/carto_marta-vidal/static/media/table.60facc8d.svg"
   },
   {
     "revision": "ab01caa69fbea84266de2b40e5b8a159",
     "url": "/carto_marta-vidal/static/media/map.ab01caa6.svg"
   },
   {
-    "revision": "60facc8d7f997a19139fa10e840a5767",
-    "url": "/carto_marta-vidal/static/media/table.60facc8d.svg"
+    "revision": "4a2d3d5a65a74b76d91b53132516d400",
+    "url": "/carto_marta-vidal/static/media/products.4a2d3d5a.svg"
   },
   {
     "revision": "ab01caa69fbea84266de2b40e5b8a159",
@@ -84,12 +84,16 @@ self.__precacheManifest = [
     "url": "/carto_marta-vidal/static/media/data-icon.58e4072d.svg"
   },
   {
-    "revision": "e809a3a3615db7d0f1d8d19284d0c64e",
-    "url": "/carto_marta-vidal/static/media/view-icon.e809a3a3.svg"
+    "revision": "c2f596edd9375762e239c241a822e552",
+    "url": "/carto_marta-vidal/static/media/grid-icon.c2f596ed.svg"
   },
   {
     "revision": "4f93235b791c4e57ecbc905bc882932d",
     "url": "/carto_marta-vidal/static/media/conection-icon.4f93235b.svg"
+  },
+  {
+    "revision": "e809a3a3615db7d0f1d8d19284d0c64e",
+    "url": "/carto_marta-vidal/static/media/view-icon.e809a3a3.svg"
   },
   {
     "revision": "bfbd478660cc65427b33a79e9ba5d7be",
@@ -98,10 +102,6 @@ self.__precacheManifest = [
   {
     "revision": "7fe4238eb94ac20ed4c15f462f335438",
     "url": "/carto_marta-vidal/static/media/icon-size.7fe4238e.svg"
-  },
-  {
-    "revision": "c2f596edd9375762e239c241a822e552",
-    "url": "/carto_marta-vidal/static/media/grid-icon.c2f596ed.svg"
   },
   {
     "revision": "68495132b887eca8fd27fd7e05c2ee2b",
@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/carto_marta-vidal/static/media/map.0d175324.png"
   },
   {
-    "revision": "e5c73a2e54ac36b433c4bb6fe5b28b47",
+    "revision": "be26b0e2f7dbc81d1fd6a92efd3d3734",
     "url": "/carto_marta-vidal/index.html"
   }
 ];

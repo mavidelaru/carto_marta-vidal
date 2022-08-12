@@ -1,7 +1,7 @@
 {
-  "main.css": "/carto_marta-vidal/static/css/main.e31eb447.chunk.css",
-  "main.js": "/carto_marta-vidal/static/js/main.a1b24582.chunk.js",
-  "main.js.map": "/carto_marta-vidal/static/js/main.a1b24582.chunk.js.map",
+  "main.css": "/carto_marta-vidal/static/css/main.33809697.chunk.css",
+  "main.js": "/carto_marta-vidal/static/js/main.ee9124e1.chunk.js",
+  "main.js.map": "/carto_marta-vidal/static/js/main.ee9124e1.chunk.js.map",
   "static/js/1.8f9ce214.chunk.js": "/carto_marta-vidal/static/js/1.8f9ce214.chunk.js",
   "static/js/1.8f9ce214.chunk.js.map": "/carto_marta-vidal/static/js/1.8f9ce214.chunk.js.map",
   "runtime~main.js": "/carto_marta-vidal/static/js/runtime~main.d05bae28.js",
@@ -15,11 +15,11 @@
   "static/media/rectangle.svg": "/carto_marta-vidal/static/media/rectangle.41f1b5ff.svg",
   "static/media/add-icon.svg": "/carto_marta-vidal/static/media/add-icon.6031cb13.svg",
   "static/media/Top-table.css": "/carto_marta-vidal/static/media/arrow-breadcrumb.8c2e1b63.svg",
-  "static/media/button.css": "/carto_marta-vidal/static/media/table.60facc8d.svg",
+  "static/media/button.css": "/carto_marta-vidal/static/media/products.4a2d3d5a.svg",
   "static/media/sidebar.css": "/carto_marta-vidal/static/media/dialog.024481b9.svg",
   "static/media/map.png": "/carto_marta-vidal/static/media/map.0d175324.png",
-  "static/css/main.e31eb447.chunk.css.map": "/carto_marta-vidal/static/css/main.e31eb447.chunk.css.map",
+  "static/css/main.33809697.chunk.css.map": "/carto_marta-vidal/static/css/main.33809697.chunk.css.map",
   "index.html": "/carto_marta-vidal/index.html",
-  "precache-manifest.9f6fa8c8c1119f13d6e96c7477c8926e.js": "/carto_marta-vidal/precache-manifest.9f6fa8c8c1119f13d6e96c7477c8926e.js",
+  "precache-manifest.ff7d576f971e44513652a2c0bd9585bc.js": "/carto_marta-vidal/precache-manifest.ff7d576f971e44513652a2c0bd9585bc.js",
   "service-worker.js": "/carto_marta-vidal/service-worker.js"
 }
