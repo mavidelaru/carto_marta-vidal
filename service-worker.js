@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/carto_marta-vidal/precache-manifest.988c4fdb32e796a986249f721c540135.js"
+  "/carto_marta-vidal/precache-manifest.fe5055a5a4ee4a0e68d00f5746d830e0.js"
 );
 
 workbox.clientsClaim();
