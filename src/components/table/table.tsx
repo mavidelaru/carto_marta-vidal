@@ -1,3 +1,4 @@
+import React from "react";
 import dataRecordsParams from "../../pages/dashboard/dashboard";
 import "./table.css";
 import { DataService } from "../../services/DataService";

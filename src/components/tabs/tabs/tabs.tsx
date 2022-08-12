@@ -1,3 +1,4 @@
+import React from "react";
 import { ReactElement, useState } from "react";
 import Components from "../../../components";
 import "./tabs.css";

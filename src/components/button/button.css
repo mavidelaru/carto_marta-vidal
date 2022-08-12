@@ -29,9 +29,9 @@ Just the ones necessary for the assignment ⚠️*/
   color: var(--button--type-text__primary-color);
 }
 .button--style-primary:hover {
-  background-color: rgba(3, 111, 226, 0.08);
   border-radius: 4px;
-  transition: 0.4s ease-out;
+  box-shadow: var(--shadow),0 0.5px var(--shadow-surface),0 0 0 var(--shadow-highlight-size) var(--shadow-highlight);
+  transition-duration: 0.5s;
 }
 .button--style-tertiary::after {
   color: var(--button--type-text__tertiary-color);
@@ -43,7 +43,8 @@ Just the ones necessary for the assignment ⚠️*/
 /* Style size*/
 .button--size-normal {
   font-size: var(--text-base);
-  padding: 0px var(--spacing-6);
+  padding: var(--spacing-2);
+  margin: 0px var(--spacing-1);
 }
 .button--size-small {
   font-size: var(--text-xs);

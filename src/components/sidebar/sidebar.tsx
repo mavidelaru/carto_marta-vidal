@@ -1,3 +1,4 @@
+import React from "react";
 import "./sidebar.css";
 import cartoIconDE from '../../assets/sidebar-icons/data-explorer/carto.svg';
 import fileTreeIconDE from '../../assets/sidebar-icons/data-explorer/file-tree-component.svg';

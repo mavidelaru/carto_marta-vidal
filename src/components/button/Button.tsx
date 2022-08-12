@@ -1,3 +1,4 @@
+import React from "react";
 import "./button.css";
 
 export type ButtonType = "contained" | "outlined" | "text";
